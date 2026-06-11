@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="physicsCalculator.vcxproj" Id="5705b7a7-9a92-4266-acf7-4898e3e2dcff" />
+</Solution>

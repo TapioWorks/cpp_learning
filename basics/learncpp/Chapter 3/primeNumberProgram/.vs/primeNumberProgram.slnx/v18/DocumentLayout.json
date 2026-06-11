@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\cpp_learning\\basics\\learncpp\\Chapter 3\\primeNumberProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7C6346-31DF-48D8-89FA-461A3C4AA42A}|primeNumberProgram.vcxproj|C:\\Projects\\cpp_learning\\basics\\learncpp\\Chapter 3\\primeNumberProgram\\primeNumberProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E7C6346-31DF-48D8-89FA-461A3C4AA42A}|primeNumberProgram.vcxproj|solutionrelative:primeNumberProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "primeNumberProgram.cpp",
+              "DocumentMoniker": "C:\\Projects\\cpp_learning\\basics\\learncpp\\Chapter 3\\primeNumberProgram\\primeNumberProgram.cpp",
+              "RelativeDocumentMoniker": "primeNumberProgram.cpp",
+              "ToolTip": "C:\\Projects\\cpp_learning\\basics\\learncpp\\Chapter 3\\primeNumberProgram\\primeNumberProgram.cpp",
+              "RelativeToolTip": "primeNumberProgram.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-05T07:28:46.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="testSizeOfOperator.vcxproj" Id="e474c5e2-7018-40ce-b1ab-ea87fb18657d" />
+</Solution>

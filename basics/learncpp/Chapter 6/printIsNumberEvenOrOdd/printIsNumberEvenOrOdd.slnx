@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="printIsNumberEvenOrOdd.vcxproj" Id="a6903f60-50e1-4dcf-a0f2-a60760960815" />
+</Solution>

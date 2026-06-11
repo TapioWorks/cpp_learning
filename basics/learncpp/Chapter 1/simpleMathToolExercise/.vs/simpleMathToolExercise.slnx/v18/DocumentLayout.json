@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\cpp_learning\\basics\\learncpp\\Chapter 1\\simpleMathToolExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF81E52-D763-4095-854F-0CD5DB954631}|simpleMathToolExercise.vcxproj|C:\\Projects\\cpp_learning\\basics\\learncpp\\Chapter 1\\simpleMathToolExercise\\simpleMathToolExercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBF81E52-D763-4095-854F-0CD5DB954631}|simpleMathToolExercise.vcxproj|solutionrelative:simpleMathToolExercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "simpleMathToolExercise.cpp",
+              "DocumentMoniker": "C:\\Projects\\cpp_learning\\basics\\learncpp\\Chapter 1\\simpleMathToolExercise\\simpleMathToolExercise.cpp",
+              "RelativeDocumentMoniker": "simpleMathToolExercise.cpp",
+              "ToolTip": "C:\\Projects\\cpp_learning\\basics\\learncpp\\Chapter 1\\simpleMathToolExercise\\simpleMathToolExercise.cpp",
+              "RelativeToolTip": "simpleMathToolExercise.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-02T09:42:12.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
