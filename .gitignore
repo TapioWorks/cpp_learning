@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+
+# Intermediate files
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.idb
+
+# Executables and libraries
+*.exe
+*.dll
+*.lib
+
+out/
+build/
+cmake-build-*/
+
+# Misc
+.DS_Store
