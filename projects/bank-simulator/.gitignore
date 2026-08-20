@@ -1,0 +1,4 @@
+Api/node_modules/
+qt_frontend/qt_frontend.pro.user
+qt_frontend/DLLSerialport/DLLSerialport.pro.user
+qt_frontend/build*

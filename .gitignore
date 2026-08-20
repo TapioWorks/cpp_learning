@@ -1,4 +1,6 @@
+# =========================
 # Visual Studio
+# =========================
 .vs/
 *.vcxproj.user
 *.user
@@ -14,7 +16,9 @@
 *.VC.db
 *.VC.VC.opendb
 
+# =========================
 # Python
+# =========================
 __pycache__/
 *.py[cod]
 *.pyo
@@ -29,20 +33,35 @@ venv/
 env/
 ENV/
 
-# Robot Framework
-output.xml
-log.html
-report.html
+# =========================
+# Node.js
+# =========================
+Api/node_modules/
 
-# IDEs
-.idea/
-.vscode/
+# =========================
+# Qt / Qt Creator
+# =========================
+*.pro.user
+*.pro.user.*
+qt_frontend/build-*/
 
-# OS
-.DS_Store
-Thumbs.db
+# Qt / C++ build output
+Makefile
+*.o
+*.obj
+*.a
+*.dll
+*.so
+*.exe
+*.lib
+*.pch
+*.pdb
+*.ilk
+*.idb
 
-# Build output
+# =========================
+# General build output
+# =========================
 Debug/
 Release/
 x64/
@@ -51,24 +70,31 @@ x86/
 */Release/
 */x64/
 */x86/
-
-# Intermediate files
-*.obj
-*.pch
-*.pdb
-*.ilk
-*.idb
-
-# Executables and libraries
-*.exe
-*.dll
-*.lib
-
 out/
 build/
 cmake-build-*/
 
-# Misc
+# =========================
+# Robot Framework
+# =========================
+output.xml
+log.html
+report.html
+
+# =========================
+# IDEs
+# =========================
+.idea/
+.vscode/
+
+# =========================
+# OS
+# =========================
 .DS_Store
+Thumbs.db
+
+# =========================
+# Misc
+# =========================
 *.swp
 *.swo
