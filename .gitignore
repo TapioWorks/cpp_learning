@@ -14,6 +14,34 @@
 *.VC.db
 *.VC.VC.opendb
 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Robot Framework
+output.xml
+log.html
+report.html
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
 # Build output
 Debug/
 Release/
