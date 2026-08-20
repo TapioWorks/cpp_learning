@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="rewriteFunctionUsing!Operator.vcxproj" Id="b1eaf7f7-7f10-4ca0-983a-e4e5f1cd7e7f" />
+  <Project Path="endProjectForChapter6.vcxproj" />
 </Solution>
