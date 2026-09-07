@@ -1,5 +1,5 @@
 objests =   ["table", "chair", "sofa"]
-foods =     ["pizza" "risotto", "hamburger"]
+foods =     ["pizza", "risotto", "hamburger"]
 fruits =    ["banana", "strawberry", "apple"]
 
 random_stuff = [objests, foods, fruits]
